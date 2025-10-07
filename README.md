@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Yousef%20Sh3ban&fontSize=70&fontColor=3fb6d3&fontAlign=50&fontAlignY=50&rotate=0&stroke=02569b&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Yousef%20Sh3ban&fontSize=70&fontColor=3fb6d3&fontAlign=50&fontAlignY=50&rotate=0&stroke=02569b&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=063c6a" />
 </div>
 
 ###
@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/yousef-shaban1551" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="yousefshaban1551@gmail.com" target="_blank">
+  <a href="mailto:yousefshaban1551@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/201062653834" target="_blank">
@@ -56,7 +56,7 @@
   <a href="https://t.me/THE_SH3BAN" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="yousef1551" target="_blank">
+  <a href="https://discord.com/users/yousef1551" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
